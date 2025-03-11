@@ -1,6 +1,6 @@
 # The Pac-Man Projects
 
-![Pacman game GIF]((https://inst.eecs.berkeley.edu/~cs188/fa24/assets/images/pacman_game.gif))
+![Pacman game GIF](https://inst.eecs.berkeley.edu/~cs188/fa24/assets/images/pacman_game.gif)
 
 ## Overview
 
